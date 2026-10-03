@@ -2,7 +2,7 @@ name: Free Funding Rate Scanner
 
 on:
   schedule:
-    - cron: '0 9 * * *'  # Runs daily at 09:00 UTC
+    - cron: '0 7 * * *'  # Runs daily at 07:00 UTC
   workflow_dispatch:      # Allows manual trigger from GitHub UI
 
 jobs:

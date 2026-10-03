@@ -1,4 +1,4 @@
-## 🚀 Upgrade to PRO Version
+ 🚀 Upgrade to PRO Version
 
 Need total market coverage and institutional-grade risk management beyond static pairs?
 
